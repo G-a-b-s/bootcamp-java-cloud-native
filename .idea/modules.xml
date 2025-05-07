@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ContaBanco/ContaBanco.iml" filepath="$PROJECT_DIR$/ContaBanco/ContaBanco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesafioControleFluxo/DesafioControleFluxo.iml" filepath="$PROJECT_DIR$/DesafioControleFluxo/DesafioControleFluxo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesafioModelingIphone/DesafioModelingIphone.iml" filepath="$PROJECT_DIR$/DesafioModelingIphone/DesafioModelingIphone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercicioClassesEncapsulamento/ExercicioClassesEncapsulamento.iml" filepath="$PROJECT_DIR$/ExercicioClassesEncapsulamento/ExercicioClassesEncapsulamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SintaxesJava/SintaxesJava.iml" filepath="$PROJECT_DIR$/SintaxesJava/SintaxesJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/bootcamp-java-cloud-native.iml" filepath="$PROJECT_DIR$/.idea/bootcamp-java-cloud-native.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smart-tv-system/smart-tv-system.iml" filepath="$PROJECT_DIR$/smart-tv-system/smart-tv-system.iml" />
+    </modules>
+  </component>
+</project>
